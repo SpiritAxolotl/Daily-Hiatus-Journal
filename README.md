@@ -11,7 +11,7 @@ Even though I just said I don't have that much time to work with, I *do* think t
 
 I'm gonna organize this repository by `Month/Day.md`, so today, April 28th, will be `april/28.md`.
 
-You can see the latest commits [here](https://github.com/SpiritAxolotl/Daily-Hiatus-Journal/commits/main/).
+You can see the latest commits [here](https://github.com/SpiritAxolotl/Daily-Hiatus-Journal/commits/main/), and if you want to be notified for updates on my status, just watch the repo from the top right (I'll be honored if you do this).
 
 # Conclusion I guess
 Thank you for checking in on me! I genuinely really appreciate it. If you need to contact me and it's low urgency, just comment on my latest post. If it's high urgency, email `spiritaxolotl` at gmail.
