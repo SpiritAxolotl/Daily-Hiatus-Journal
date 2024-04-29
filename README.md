@@ -1,5 +1,5 @@
 # Daily Hiatus Journal
-Hey! Spax here. This repository is meant to act as proof of me still existing for people who only know me online, as well as a bit of a daily reflection for myself about what I accomplished that day.
+Hey! Spax here. This repository is meant to act as proof of me still existing for people who only know me online, as well as a bit of a daily reflection for myself about what I accomplished each day.
 
 I don't know how often I'll use this repository (honestly I hope it's only this once) but I'll explain the reason for my current hiatus here:
 
