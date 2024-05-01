@@ -14,7 +14,7 @@ I'm gonna organize this repository by `Month/Day.md`, so today, April 28th, will
 You can see the latest commits [here](https://github.com/SpiritAxolotl/Daily-Hiatus-Journal/commits/main/), and if you want to be notified for updates on my status, just watch the repo from the top right (I'll be honored if you do this).
 
 # Conclusion I guess
-Thank you for checking in on me! I genuinely really appreciate it. If you need to contact me and it's low urgency, just comment on my latest post. If it's high urgency, email `spiritaxolotl` at gmail.
+Thank you for checking in on me! I genuinely really appreciate it. If you need to contact me and it's low urgency, just open a [github issue](https://github.com/SpiritAxolotl/Daily-Hiatus-Journal/issues) with whatever you need and I'll respond when I can (closed = answered). If it's high urgency, email `spiritaxolotl` at gmail.
 
 Last thing: if you see me online on Discord or some other form of social media while I'm still on hiatus, give me a slap and tell me to get back to work!
 
